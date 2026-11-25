@@ -10,5 +10,17 @@
   "command": "/usr/bin/c++ -g -std=gnu++11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/EcologyPopulationDynamics.dir/Species.cpp.o -c /Users/max/Desktop/EcologyPopulationDynamics/Species.cpp",
   "file": "/Users/max/Desktop/EcologyPopulationDynamics/Species.cpp",
   "output": "/Users/max/Desktop/EcologyPopulationDynamics/cmake-build-debug/CMakeFiles/EcologyPopulationDynamics.dir/Species.cpp.o"
+},
+{
+  "directory": "/Users/max/Desktop/EcologyPopulationDynamics/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/EcologyPopulationDynamics.dir/PopulationModel.cpp.o -c /Users/max/Desktop/EcologyPopulationDynamics/PopulationModel.cpp",
+  "file": "/Users/max/Desktop/EcologyPopulationDynamics/PopulationModel.cpp",
+  "output": "/Users/max/Desktop/EcologyPopulationDynamics/cmake-build-debug/CMakeFiles/EcologyPopulationDynamics.dir/PopulationModel.cpp.o"
+},
+{
+  "directory": "/Users/max/Desktop/EcologyPopulationDynamics/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++11 -arch arm64 -fcolor-diagnostics -o CMakeFiles/EcologyPopulationDynamics.dir/SpeciesStore.cpp.o -c /Users/max/Desktop/EcologyPopulationDynamics/SpeciesStore.cpp",
+  "file": "/Users/max/Desktop/EcologyPopulationDynamics/SpeciesStore.cpp",
+  "output": "/Users/max/Desktop/EcologyPopulationDynamics/cmake-build-debug/CMakeFiles/EcologyPopulationDynamics.dir/SpeciesStore.cpp.o"
 }
 ]

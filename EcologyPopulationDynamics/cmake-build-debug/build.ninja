@@ -65,6 +65,22 @@ build CMakeFiles/EcologyPopulationDynamics.dir/Species.cpp.o: CXX_COMPILER__Ecol
   OBJECT_FILE_DIR = CMakeFiles/EcologyPopulationDynamics.dir
   TARGET_SUPPORT_DIR = CMakeFiles/EcologyPopulationDynamics.dir
 
+build CMakeFiles/EcologyPopulationDynamics.dir/PopulationModel.cpp.o: CXX_COMPILER__EcologyPopulationDynamics_unscanned_Debug /Users/max/Desktop/EcologyPopulationDynamics/PopulationModel.cpp || cmake_object_order_depends_target_EcologyPopulationDynamics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/EcologyPopulationDynamics.dir/PopulationModel.cpp.o.d
+  FLAGS = -g -std=gnu++11 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/EcologyPopulationDynamics.dir
+  OBJECT_FILE_DIR = CMakeFiles/EcologyPopulationDynamics.dir
+  TARGET_SUPPORT_DIR = CMakeFiles/EcologyPopulationDynamics.dir
+
+build CMakeFiles/EcologyPopulationDynamics.dir/SpeciesStore.cpp.o: CXX_COMPILER__EcologyPopulationDynamics_unscanned_Debug /Users/max/Desktop/EcologyPopulationDynamics/SpeciesStore.cpp || cmake_object_order_depends_target_EcologyPopulationDynamics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles/EcologyPopulationDynamics.dir/SpeciesStore.cpp.o.d
+  FLAGS = -g -std=gnu++11 -arch arm64 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/EcologyPopulationDynamics.dir
+  OBJECT_FILE_DIR = CMakeFiles/EcologyPopulationDynamics.dir
+  TARGET_SUPPORT_DIR = CMakeFiles/EcologyPopulationDynamics.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target EcologyPopulationDynamics
@@ -73,7 +89,7 @@ build CMakeFiles/EcologyPopulationDynamics.dir/Species.cpp.o: CXX_COMPILER__Ecol
 #############################################
 # Link the executable EcologyPopulationDynamics
 
-build EcologyPopulationDynamics: CXX_EXECUTABLE_LINKER__EcologyPopulationDynamics_Debug CMakeFiles/EcologyPopulationDynamics.dir/main.cpp.o CMakeFiles/EcologyPopulationDynamics.dir/Species.cpp.o
+build EcologyPopulationDynamics: CXX_EXECUTABLE_LINKER__EcologyPopulationDynamics_Debug CMakeFiles/EcologyPopulationDynamics.dir/main.cpp.o CMakeFiles/EcologyPopulationDynamics.dir/Species.cpp.o CMakeFiles/EcologyPopulationDynamics.dir/PopulationModel.cpp.o CMakeFiles/EcologyPopulationDynamics.dir/SpeciesStore.cpp.o
   CONFIG = Debug
   FLAGS = -g -arch arm64
   LINK_FLAGS = -Wl,-search_paths_first -Wl,-headerpad_max_install_names

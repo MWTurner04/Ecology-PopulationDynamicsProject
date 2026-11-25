@@ -5,4 +5,8 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(EcologyPopulationDynamics main.cpp
         Species.cpp
-        Species.h)
+        Species.h
+        PopulationModel.cpp
+        PopulationModel.h
+        SpeciesStore.cpp
+        SpeciesStore.h)
